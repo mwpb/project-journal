@@ -1,4 +1,4 @@
-# www
+# Project journal
 
 What I worked on when.
 
