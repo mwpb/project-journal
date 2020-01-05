@@ -12,7 +12,7 @@ What I worked on when.
 * July:
   * (and ongoing) [Exercism training](https://exercism.io/profiles/mwpb)
 * August:
-  * Cybera data science fellowship: [cybera news](https://www.cybera.ca/news-and-events/news/cybera-wraps-up-data-science-industry-fellowships/)
+  * Cybera data science fellow: [cybera news](https://www.cybera.ca/news-and-events/news/cybera-wraps-up-data-science-industry-fellowships/)
 * October: 
   * [Understanding Bayesian regression](https://github.com/mwpb/bayesian-regression)
 * December
