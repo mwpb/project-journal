@@ -2,6 +2,11 @@
 
 What I worked on when.
 
+# 2020
+
+* January
+  * Dropbox progressive web app for viewing chess games: [github](https://github.com/mwpb/chesslogbook-dropbox)
+
 ## 2019
 
 * July:
