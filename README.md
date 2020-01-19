@@ -1,20 +1,12 @@
 # Project journal
 
-What I worked on when.
+A rough timeline of programming projects.
+Most involve trying to learn a new area.
 
-## 2017
+# 2020
 
 * January
-  * [maths-inliner](https://github.com/mwpb/maths-inliner)
-* February
- * [miniMathJax](https://github.com/mwpb/miniMathJax)
-
-## 2018
-
-* March
-  * [Postulated colimits in Coq](https://github.com/mwpb/postulated-colimits-in-coq)
-* October
-  * [Introduction to univalence in Coq](https://github.com/mwpb/introduction-univalence-coq/blob/master/README.md)
+  * Dropbox progressive web app for viewing chess games: [github](https://github.com/mwpb/chesslogbook-dropbox)
 
 ## 2019
 
@@ -27,11 +19,17 @@ What I worked on when.
 * December
   * [Advent of code](https://github.com/mwpb/adventOfCode2019)
   * [JavaScript LaTeX parser](https://github.com/mwpb/latex-parser)
+  
+## 2018
 
-# 2020
+* March
+  * [Postulated colimits in Coq](https://github.com/mwpb/postulated-colimits-in-coq)
+* October
+  * [Introduction to univalence in Coq](https://github.com/mwpb/introduction-univalence-coq/blob/master/README.md)
+
+## 2017
 
 * January
-  * Dropbox progressive web app for viewing chess games: [github](https://github.com/mwpb/chesslogbook-dropbox)
-
-
-
+  * [maths-inliner](https://github.com/mwpb/maths-inliner)
+* February
+  * [miniMathJax](https://github.com/mwpb/miniMathJax)
