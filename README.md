@@ -7,6 +7,10 @@ Most involve trying to learn a new area.
 
 * January
   * Dropbox progressive web app for viewing chess games: [github](https://github.com/mwpb/chesslogbook-dropbox)
+* April
+  * VS Code extension 'Java prettier formatter': [github](https://github.com/mwpb/java-prettier-formatter)
+* May
+  * Foobar with google (private)
 
 ## 2019
 
