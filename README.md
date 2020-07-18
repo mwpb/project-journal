@@ -11,6 +11,9 @@ Most involve trying to learn a new area.
   * VS Code extension 'Java prettier formatter': [github](https://github.com/mwpb/java-prettier-formatter)
 * May
   * Foobar with google (private)
+* July
+  * Complex analysis notes: [github](https://github.com/mwpb/notes-complex-analysis)
+  * The Rust Book: [github](https://github.com/mwpb/the-rust-book)
 
 ## 2019
 
